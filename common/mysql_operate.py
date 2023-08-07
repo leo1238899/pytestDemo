@@ -1,7 +1,7 @@
 import pymysql
 import os
-from common.read_data import data
-from common.logger import logger
+from pytestDemo.common.read_data import data
+from pytestDemo.common.logger import logger
 
 BASE_PATH = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 data_file_path = os.path.join(BASE_PATH, "config", "setting.ini")

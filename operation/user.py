@@ -1,6 +1,6 @@
-from core.result_base import ResultBase
-from api.user import user
-from common.logger import logger
+from pytestDemo.core.result_base import ResultBase
+from pytestDemo.api.user import user
+from pytestDemo.common.logger import logger
 
 
 def get_all_user_info():

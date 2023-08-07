@@ -1,7 +1,7 @@
 import yaml
 import json
 from configparser import ConfigParser
-from common.logger import logger
+from pytestDemo.common.logger import logger
 
 
 class MyConfigParser(ConfigParser):

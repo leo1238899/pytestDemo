@@ -1,5 +1,5 @@
 import pytest
-from testcases.conftest import api_data
+from pytestDemo.testcases.conftest import api_data
 
 
 @pytest.fixture(scope="function")
