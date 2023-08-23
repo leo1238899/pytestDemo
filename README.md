@@ -59,3 +59,6 @@ allure serve ./report
 最终，可以看到测试报告的效果图如下：
 
 ![image.png](https://upload-images.jianshu.io/upload_images/16853007-248f805c82dbf99c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+python 一次安装多个模块 requirements.txt（文件名）
+命令 pip install -r requirements.txt
